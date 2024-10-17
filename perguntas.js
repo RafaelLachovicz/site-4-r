@@ -17,7 +17,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Ciẽncias',
-    'Quais os tipos de Ciẽncias?',
+    'Ciências',
+    'Quais os tipos de Ciências?',
     'O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) classifica os saberes em oito áreas: Ciências Exatas e da Terra; Ciências Biológicas; Engenharias; Ciências da Saúde; Ciências Agrárias; Ciências Sociais; Ciências Humanas; Linguística, Letras e Artes.'
+)
+
+criaCartao(
+    'Ciências',
+    'Qual é o nome da camada mais externa da Terra?',
+    'Crosta terrestre'
+)
+
+criaCartao(
+    'Literatura',
+    'Quem foi o autor do livro "Dom Quixote"?',
+    'Miguel de Cervantes'
 )
